@@ -1,0 +1,13 @@
+#############################
+#Method used to analyze differentially expressed genes (DES) in different types of ovarian cancer
+
+1. Expression raw data ----->background correction & normalization & calculate expression
+   Affy     package 
+   rma      algorithm
+
+2. Batch adjustment
+   Sva      package
+   ComBat   algorithm
+
+3. Differentially expressed genes
+   limma    package
