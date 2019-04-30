@@ -3,7 +3,6 @@
 Identifying differentially expressed genes is very important for selecing therapeutic targets or potential diagnosis biomarkers. 
 Here by integrating multiple GEO databases, signaficantly differentially expressed genes can be identified. 
 
-
-
+You can request DEG result from haowbdreamer@gmail.com
 
 
